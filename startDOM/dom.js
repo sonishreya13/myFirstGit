@@ -31,5 +31,5 @@ var li= document.getElementsByTagName("li")
 // li[0].textContent= "Wave1"
 // li[0].style.backgroundColor ='green'
 for(let i=0;i<li.length; i++){
-    li[i].style.backgroundColor= 'red';
+    li[i].style.backgroundColor= 'yellow';
 }
